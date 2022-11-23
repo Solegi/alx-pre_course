@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1669054486,,"q!"
+|2,0,1669141066,,"q!"
+:q
+|2,0,1669140087,,"q"
 :wq!
 |2,0,1669050614,,"wq!"
-:q
-|2,0,1669049646,,"q"
 :q1
 |2,0,1669049493,,"q1"
 :wq
@@ -42,34 +42,182 @@
 |3,0,3,1,1,0,1669043480,"uU"
 
 # File marks:
-'0  1  9  /exiting
-|4,48,1,9,1669054486,"/exiting"
-'1  1  0  /end_of_the_line
-|4,49,1,0,1669050614,"/end_of_the_line"
+'0  1  0  ~/exiting
+|4,48,1,0,1669141066,"~/exiting"
+'1  1  0  /exiting
+|4,49,1,0,1669140744,"/exiting"
 '2  1  0  /exiting
-|4,50,1,0,1669050282,"/exiting"
-'3  1  0  /exiting
-|4,51,1,0,1669050225,"/exiting"
-'4  1  0  /exiting
-|4,52,1,0,1669050225,"/exiting"
+|4,50,1,0,1669140101,"/exiting"
+'3  1  1  /exiting
+|4,51,1,1,1669139460,"/exiting"
+'4  1  1  /exiting
+|4,52,1,1,1669139460,"/exiting"
 '5  1  0  /exiting
-|4,53,1,0,1669049829,"/exiting"
+|4,53,1,0,1669139231,"/exiting"
 '6  1  0  /exiting
-|4,54,1,0,1669049829,"/exiting"
+|4,54,1,0,1669139231,"/exiting"
 '7  1  0  /exiting
-|4,55,1,0,1669049829,"/exiting"
+|4,55,1,0,1669139231,"/exiting"
 '8  1  0  /exiting
-|4,56,1,0,1669049829,"/exiting"
-'9  1  0  /exiting
-|4,57,1,0,1669049743,"/exiting"
+|4,56,1,0,1669139231,"/exiting"
+'9  1  9  /exiting
+|4,57,1,9,1669054486,"/exiting"
 
 # Jumplist (newest first):
+-'  1  0  ~/exiting
+|4,39,1,0,1669141066,"~/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669140744,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669140744,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669140101,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669140101,"/exiting"
+-'  1  1  /exiting
+|4,39,1,1,1669139460,"/exiting"
+-'  1  1  /exiting
+|4,39,1,1,1669139460,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669139231,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669139231,"/exiting"
+-'  1  9  /exiting
+|4,39,1,9,1669054486,"/exiting"
 -'  1  9  /exiting
 |4,39,1,9,1669054486,"/exiting"
 -'  1  0  /end_of_the_line
 |4,39,1,0,1669050614,"/end_of_the_line"
 -'  1  0  /end_of_the_line
 |4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /end_of_the_line
+|4,39,1,0,1669050614,"/end_of_the_line"
+-'  1  0  /exiting
+|4,39,1,0,1669050282,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669050282,"/exiting"
 -'  1  0  /exiting
 |4,39,1,0,1669050282,"/exiting"
 -'  1  0  /exiting
@@ -79,6 +227,14 @@
 -'  1  0  /exiting
 |4,39,1,0,1669050225,"/exiting"
 -'  1  0  /exiting
+|4,39,1,0,1669050225,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669050225,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669049829,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669049829,"/exiting"
+-'  1  0  /exiting
 |4,39,1,0,1669049829,"/exiting"
 -'  1  0  /exiting
 |4,39,1,0,1669049829,"/exiting"
@@ -87,173 +243,17 @@
 -'  1  0  /exiting
 |4,39,1,0,1669049743,"/exiting"
 -'  1  0  /exiting
+|4,39,1,0,1669049743,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669049743,"/exiting"
+-'  1  0  /exiting
 |4,39,1,0,1669049727,"/exiting"
 -'  1  0  /exiting
 |4,39,1,0,1669049727,"/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
--'  1  0  ~/exiting
-|4,39,1,0,1669049657,"~/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669049727,"/exiting"
+-'  1  0  /exiting
+|4,39,1,0,1669049727,"/exiting"
 -'  1  0  ~/exiting
 |4,39,1,0,1669049657,"~/exiting"
 -'  1  0  ~/exiting
@@ -267,22 +267,22 @@
 
 # History of marks within files (newest to oldest):
 
-> /exiting
-	*	1669054480	0
-	"	1	9
-	^	1	10
-	.	1	0
-	+	1	0
-
-> /end_of_the_line
-	*	1669050602	0
+> ~/exiting
+	*	1669141059	0
 	"	1	0
 	^	1	1
 	.	1	0
 	+	1	0
 
-> ~/exiting
-	*	1669049646	0
+> /exiting
+	*	1669140737	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> /end_of_the_line
+	*	1669050602	0
 	"	1	0
 	^	1	1
 	.	1	0
